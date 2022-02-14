@@ -592,7 +592,7 @@ survived,pclass,sex,age,sibsp,parch,fare,embarked,class,who,adult_male,deck,emba
 0,3,male,35.0,0,0,7.125,S,Third,man,True,F,Southampton,no,True,590
 1,1,female,52.0,1,0,78.2667,C,First,woman,False,D,Cherbourg,yes,False,591
 0,3,male,47.0,0,0,7.25,S,Third,man,True,F,Southampton,no,True,592
-0,3,female,35.0,0,2,7.75,Q,Third,woman,False,E,Queenstown,no,False,593
+0,3,female,36.0,0,2,7.75,Q,Third,woman,False,E,Queenstown,no,False,593
 0,2,male,37.0,1,0,26.0,S,Second,man,True,F,Southampton,no,False,594
 0,3,male,36.0,1,1,24.15,S,Third,man,True,F,Southampton,no,False,595
 1,2,female,28.0,0,0,33.0,S,Second,woman,False,F,Southampton,yes,True,596
